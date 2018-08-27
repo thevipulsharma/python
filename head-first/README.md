@@ -1,5 +1,5 @@
 # Head First
-```markdown
+```html
 This folder contains all I learnt from the book <b>Head First Python: A Brain Friendly Guide.</b>
 ```
 
