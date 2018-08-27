@@ -1,5 +1,5 @@
 # Head First
-This folder contains all I learnt from the book **Head First Python: A Brain Friendly Guide.**
+This folder contains all I learnt from the book - **Head First Python: A Brain Friendly Guide.**
 
 ### Topics Covered - 
 [Getting Started](jyp-01.ipnyb)<br/>
