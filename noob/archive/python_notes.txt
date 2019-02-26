@@ -1,0 +1,6 @@
+Sequences in Python -
+1. Tuples - A tuple is a collection used to create complex list-like sequences. An advantage of tuples is that you can next the content of the tuple. This feature lets you create structures that can hold employee records or x-y coordinate pairs.
+2. Dictionaries - As with the real dictionaries, you create key/value pairs when using the dictionary collection (think of a word and its associated definition). A dictionary provides incredibly fast search times and makes ordering significantly easier.
+3. Stacks - Most programming languages support stacks directly. However, Python does not support the stack, although there's a workaround for that. A stack is a LIFO sequence. A staack is an important collection that you can simulate using a list.
+4. Queues - A queue is a FIFO collection. You use it to track items that need to be processed in some way.
+5. Deques - A double-ended queue (deque) is a queue-like struture that lets you add or remove items from either end but not from the middle.
